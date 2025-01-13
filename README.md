@@ -102,5 +102,7 @@ With all of these steps in place, we can start to work with the same tools and g
 
 ## Additional Resources
 [Elements of Software Design](https://github.com/kiat/Elements-of-Software-Design)
+
 [CodingBat](https://codingbat.com/python)
+
 [101 computing - intermediate challenges](https://www.101computing.net/python-challenges-intermediate-level/)
