@@ -99,3 +99,8 @@ Associate Venv Kernel with notebook: Open the top working folder that contains y
 Run Cells and Explore Outputs: Write code in the notebook cells and run them interactively. Use the built-in tools to explore variable states, visualize data, and debug your code.
 
 With all of these steps in place, we can start to work with the same tools and go through some basics of using python.
+
+## Additional Resources
+[Elements of Software Design](https://github.com/kiat/Elements-of-Software-Design)
+[CodingBat](https://codingbat.com/python)
+[101 computing - intermediate challenges](https://www.101computing.net/python-challenges-intermediate-level/)
